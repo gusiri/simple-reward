@@ -25,16 +25,9 @@ This is a simple reward distributor contract for Miletus Protocol. This simple e
 - [x] RewardTracker Contract
 - [ ] RewardTracker Unit Tests
 
-## Getting Started
-
-Clone this repo and 
-
-```sh
-forge test
-```
-
 ## Survey on GMX RewardDistributor and RewardTracker
 
+![GMX Architecture](https://github.com/gusiri/simple-reward/blob/master/doc/images/GmxRewardTracker.svg)
 
 ## References
 
@@ -56,6 +49,14 @@ forge test
 
 [https://gambitprotocol.medium.com/gmx-tokenomics-pt-i-f2f100a0da0f](https://gambitprotocol.medium.com/gmx-tokenomics-pt-i-f2f100a0da0f)
 
+
+## Getting Started
+
+Clone this repo and 
+
+```sh
+forge test
+```
 
 ## Foundry
 
